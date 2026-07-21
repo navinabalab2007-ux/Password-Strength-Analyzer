@@ -1,5 +1,5 @@
 import streamlit as st
-from password_checker import check_password
+from src.password_checker import check_password
 
 # Page Configuration
 st.set_page_config(
